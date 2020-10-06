@@ -1,2 +1,7 @@
 The Walking Sticks are [Weapons](https://github.com/Slimefun/Slimefun4/wiki/Weapons) added in Slimefun.<br>
-They are Sticks with different enchantments: Grandmas Walking Stick is enchanted with Knockback II, while Grandpas Walking Stick is enchanted with Knockback V.
+They are Sticks with Knockback enchantments: Grandmas Walking Stick is enchanted with Knockback II and Grandpas Walking Stick is enchanted with Knockback V.<br><br>
+Grandmas Walking Stick is crafted with 3 Oak Logs in an [Enhanced Crafting Table](https://github.com/Slimefun/Slimefun4/wiki/Enhanced-Crafting-Table) as shown:<br>
+Grandpas Walking Stick is crafted with 3 Oak Logs and 2 Leather in an Enhanced Crafting Table as shown:<br>
+<br>
+While basic Weapons, the Walking Sticks have a few notable uses in and beyond the early-game due to their Knockback enchantments, especially Knockback V on Grandpas Walking Stick. For one, they are great at dealing with Creepers because they can launch them a fair distance to keep them from exploding near the player (you can obviously use them against hordes of other mobs as well to keep them away if you don't have a damage-dealing weapon yet).<br>
+Another key usage of particularly Grandpas Walking Stick is to disenchant it with an [Auto Disenchanter](https://github.com/Slimefun/Slimefun4/wiki/Auto-Disenchanter) to obtain an Enchanted Book with Knockback V, the only way in Slimefun of obtaining a Knockback enchantment higher than level II. (You can then use an [Auto Enchanter](https://github.com/Slimefun/Slimefun4/wiki/Auto-Enchanter) to enchant a Sword with Knockback V if you wish.)
